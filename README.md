@@ -39,4 +39,4 @@
 ## Additional Info
 
 - Github: [ImaniJo-code](https://github.com/ImaniJo-code)
-- Email: [imani.l.johnson@gmail.com]
+- Email: imani.l.johnson@gmail.com
