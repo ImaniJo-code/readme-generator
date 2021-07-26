@@ -1,16 +1,16 @@
 # Professional README.md Generator 
 
 ## Table of Contents 
-- [Description]
-- [Installation]
-- [Usage]
-- [Contribution]
-- [Testing]
-- [Additional Info]
+- Description
+- Installation
+- Usage
+- Contribution
+- Testing
+- Additional Info
 
 ## Application Video
 
-- (https://drive.google.com/file/d/1YxQE_GPHJFNK3lqa-Rxn4KnyxvDfauHd/view)
+- https://drive.google.com/file/d/1YxQE_GPHJFNK3lqa-Rxn4KnyxvDfauHd/view
 
 ## Description 
 

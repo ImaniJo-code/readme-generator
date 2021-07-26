@@ -32,12 +32,12 @@ function generateMarkdown(data) {
 [![license](https://img.shields.io/badge/license-${data.licensing}-blue)](https://shields.io)
 
 ## Table of Contents
-- [Description]
-- [Installation]
-- [Usage]
-- [Contribution]
-- [Testing]
-- [Additional Info]
+- Description
+- Installation
+- Usage
+- Contribution
+- Testing
+- Additional Info
 
 ## Description
 ${data.description}
